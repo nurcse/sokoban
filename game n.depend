@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1383374132 source:c:\users\user\google drive\game by nur uddin\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<MMsystem.h>
+	<dos.h>
+	<stdlib.h>
+
+1383374132 source:c:\users\lld\google drive\game by nur uddin\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<MMsystem.h>
+	<dos.h>
+	<stdlib.h>
+
+1394877458 source:g:\2-2\project-100\game by nur uddin\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<MMsystem.h>
+	<dos.h>
+	<stdlib.h>
+	<bits/stdc++.h>
+
